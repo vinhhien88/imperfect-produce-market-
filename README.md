@@ -6,6 +6,19 @@ A digital agriculture marketplace that connects farmers, buyers, staff, and ship
 
 CapNong is designed to solve the fragmented workflow of local agricultural commerce by bringing product listing, cart, checkout, payment, delivery coordination, review, and order management into a single system. It targets multi-role stakeholders in a fresh-food supply chain: buyers who want to purchase quality produce, farmers who sell and manage inventory, staff/admin who oversee operations, and shippers who handle delivery.
 
+## Links
+
+- Source code (Backend): https://github.com/nongsanxauma-vn/FoodMarket_BE
+- Source code (Frontend): https://github.com/nongsanxauma-vn/FoodMarket-FE
+- Source code (Mobile App): https://github.com/nongsanxauma-exe201/App_CapNong_exe2/tree/develop
+## 📸 Demo
+
+### Web App
+[▶️ Xem video demo](https://youtu.be/7f_GAWL3h9k)
+
+### Mobile App
+[▶️ Xem video demo](https://youtube.com/shorts/7RLE5IRt17w)
+
 ## Tech Stack
 
 ### Backend
@@ -83,19 +96,6 @@ Key features I contributed to and/or led in the project history include:
 - Payment and checkout improvements, including PayOS integration, COD and batch order handling, pending-payment recovery, and status reconciliation.
 - Google login across web and mobile clients, along with security and token flow refinements.
 - Business features such as discounts, combo/planning modules, product image management, and reporting/export capabilities that supported the marketplace operations.
-
-## Links
-
-- Source code (Backend): https://github.com/nongsanxauma-vn/FoodMarket_BE
-- Source code (Frontend): https://github.com/nongsanxauma-vn/FoodMarket-FE
-- Source code (Mobile App): https://github.com/nongsanxauma-exe201/App_CapNong_exe2/tree/develop
-## 📸 Demo
-
-### Web App
-[▶️ Xem video demo](https://youtu.be/7f_GAWL3h9k)
-
-### Mobile App
-[▶️ Xem video demo](https://youtube.com/shorts/7RLE5IRt17w)
 
 ## Project Scale
 
