@@ -14,10 +14,10 @@ CapNong is designed to solve the fragmented workflow of local agricultural comme
 ## 📸 Demo
 
 ### Web App
-[▶️ Xem video demo](https://youtu.be/7f_GAWL3h9k)
+[▶️ Watch video demo](https://youtu.be/7f_GAWL3h9k)
 
 ### Mobile App
-[▶️ Xem video demo](https://youtube.com/shorts/7RLE5IRt17w)
+[▶️ Watch video demo](https://youtube.com/shorts/7RLE5IRt17w)
 
 
 ## Key Features
