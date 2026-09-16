@@ -19,50 +19,6 @@ CapNong is designed to solve the fragmented workflow of local agricultural comme
 ### Mobile App
 [▶️ Xem video demo](https://youtube.com/shorts/7RLE5IRt17w)
 
-## Tech Stack
-
-### Backend
-- Java 21
-- Spring Boot 3.5.6
-- Spring Web / REST APIs
-- Spring Data JPA
-- Spring Security
-- JWT + OAuth2 login
-- Spring WebSocket
-- Springdoc OpenAPI / Swagger
-- Lombok + MapStruct
-- Google GenAI
-- PayOS payment integration
-- Apache POI for Excel export
-- OpenPDF for PDF export
-
-### Frontend
-- React 19
-- TypeScript
-- Vite
-- React Router
-- Recharts
-- Leaflet
-- Tiptap
-- SockJS / STOMP
-
-### Mobile
-- React Native
-- Expo
-- Google Sign-In
-- Expo Location
-- Expo Image Picker
-- NativeWind
-
-### Database
-- MySQL (primary runtime database used by the project configuration and schema)
-- Microsoft SQL Server JDBC driver is present in the backend build configuration as well
-
-### DevOps / Infra
-- Docker
-- Docker Compose
-- NGINX
-- Cloudinary for media storage
 
 ## Key Features
 
@@ -84,6 +40,18 @@ The project follows a standard layered Spring Boot architecture:
 - Security configuration protects endpoints with JWT and OAuth2 rules
 
 On the web side, the frontend is a role-based React application using route groups and feature modules, while the mobile app is an Expo-based client consuming the same backend API surface.
+
+## Tech Stack
+
+| Area | Technologies |
+| --- | --- |
+| Backend | Java 21, Spring Boot 3.5.6, Spring Web / REST APIs, Spring Data JPA, Spring Security, JWT, OAuth2 Login, Spring WebSocket, Springdoc OpenAPI / Swagger, Lombok, MapStruct |
+| AI & Integrations | Google GenAI, PayOS Payment Gateway, Cloudinary |
+| Frontend | React 19, TypeScript, Vite, React Router, Recharts, Leaflet, Tiptap, SockJS, STOMP.js |
+| Mobile | React Native, Expo, Google Sign-In, Expo Location, Expo Image Picker, NativeWind |
+| Database | MySQL, Microsoft SQL Server JDBC Driver |
+| Reporting | Apache POI for Excel export, OpenPDF for PDF export |
+| DevOps / Infrastructure | Docker, Docker Compose, NGINX |
 
 ## My Role
 
