@@ -88,18 +88,14 @@ Key features I contributed to and/or led in the project history include:
 
 - Source code (Backend): https://github.com/nongsanxauma-vn/FoodMarket_BE
 - Source code (Frontend): https://github.com/nongsanxauma-vn/FoodMarket-FE
-- Source code (Mobile App): https://github.com/nongsanxauma-exe201/App_CapNong_exe2
+- Source code (Mobile App): https://github.com/nongsanxauma-exe201/App_CapNong_exe2/tree/develop
 ## 📸 Demo
 
 ### Web App
-![Web Demo](https://youtu.be/7f_GAWL3h9k)
+[▶️ Xem video demo](https://youtu.be/7f_GAWL3h9k)
 
 ### Mobile App — Shipper Tracking
-![Mobile Demo](https://youtube.com/shorts/7RLE5IRt17w)
-
-
-
-
+[▶️ Xem video demo](https://youtube.com/shorts/7RLE5IRt17w)
 
 ## Project Scale
 
