@@ -94,7 +94,7 @@ Key features I contributed to and/or led in the project history include:
 ### Web App
 [▶️ Xem video demo](https://youtu.be/7f_GAWL3h9k)
 
-### Mobile App — Shipper Tracking
+### Mobile App
 [▶️ Xem video demo](https://youtube.com/shorts/7RLE5IRt17w)
 
 ## Project Scale
