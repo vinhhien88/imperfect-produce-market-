@@ -1,4 +1,4 @@
-# CapNong 🌾
+# 🥦 Imperfect Produce Market System
 
 A digital agriculture marketplace that connects farmers, buyers, staff, and shippers in one end-to-end commerce and fulfillment platform.
 
